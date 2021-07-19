@@ -8,7 +8,7 @@
 <a href="https://discord.com/users/776775348280229919"><img src="https://shields.io/badge/Twn-111111.svg?&amp;style=for-the-badge&amp;logo=discord" style="max-width:100%;"></a>
 <a href="https://github.com/twenzyy"><img src="https://shields.io/badge/Twenzyy-111111.svg?&amp;style=for-the-badge&amp;logo=github" style="max-width:100%;"></a>
 <a href="https://instagram.com/twenzyyy"><img src="https://shields.io/badge/Twenzyyy-111111.svg?&amp;style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
-<a href="https://discord.gg/habbozen"><img src="https://shields.io/badge/My Discord Server-111111.svg?&amp;style=for-the-badge&amp;" style="max-width:100%;"></a>
+<a href="https://discord.gg/habbozen"><img src="https://shields.io/badge/My Discord Server-111111.svg?&amp;style=for-the-badge&amp;" style="max-width:100%;"></a><a href="https://kerem.fun"><img src="https://shields.io/badge/My Website-111111.svg?&amp;style=for-the-badge&amp;" style="max-width:100%;"></a>
 
   
 </p>
