@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twenzy</h1>
-<h3 align="center">Hello, my name is Kerem. I am 17 years old. I started software development 6 months ago by developing Discord bots. I am currently trying to learn languages ​​such as php, html, css.</h3>
+<h3 align="center">Hello, my name is Kerem. I am 18 years old. I started software development 7 months ago by developing Discord bots. I am currently trying to learn languages ​​such as php, html, css.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=twenzyy&label=Profile%20views&color=0e75b6&style=flat" alt="twenzyy" /> </p>
 
