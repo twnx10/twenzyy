@@ -14,10 +14,3 @@
 <p align="center">
   <a href="https://discord.com/users/776775348280229919"><img src="https://lanyard-profile-readme.vercel.app/api/776775348280229919" style="max-width:100%;"></a>
   </p>
-  
-
-<h1 align="center">📈 Github Stats:</h1>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twenzyy&show_icons=true&locale=en&layout=compact" alt="twenzyy" /></p>
-
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=twenzyy&show_icons=true&locale=en" alt="twenzyy" /></p>
